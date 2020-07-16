@@ -1,0 +1,185 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "title": " Jeans Jacket",
+            "price": 125.00,
+            "description": "Fit for anything and made to go the distance. The original jean jacket since the 1960s, have been loved and lived in by just about everyone. Featuring a full button placket with branded metal shanks, button cuffs, button-flap chest pockets, side hand pockets and back waistband tabs for adjustable fit.",
+            "brand": "Reserved",
+            "productType": "Jeans Jacket",
+            "collection": "2018",
+            "sale":"Get loose for...",
+            "gif":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/gifOne.gif?alt=media&token=59b763bb-e403-491c-bf66-b6fb8f76eaf1",
+            "url":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F270.jpg?alt=media&token=e34cd59d-f060-4fa7-a29b-589bd2186e58",
+            "jumbotronUrl": "https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F271.jpg?alt=media&token=443f4900-fac4-4f47-b902-2aaf7a5c09ce",
+            "verticalCardUrl":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F272.jpg?alt=media&token=198e4e5c-cfd9-4db3-92f4-bbbe444a86c4",
+            "jumbotronVideoUrl":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/jumbotronVideoOne.mp4?alt=media&token=b4cfc267-bc70-482d-9a18-5ec0a4588bff"
+           
+        },
+
+        {
+            "id": 2,
+            "title": " Trucker Denim Jacket",
+            "price": 150.00,
+            "description": "Fit for anything and made to go the distance. The original jean jacket since the 1960s, have been loved and lived in by just about everyone. Featuring a full button placket with branded metal shanks, button cuffs, button-flap chest pockets, side hand pockets and back waistband tabs for adjustable fit.",
+            "brand": "Reserved",
+            "productType": "Denim Jacket",
+            "collection": "2019",
+            "sale":"... Summer Sale",
+            "gif":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/gifTwo.gif?alt=media&token=b8e24c83-382d-4f66-a9e1-a2b15ae7d6eb",
+            "url":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F250.jpg?alt=media&token=54afcdc9-a738-42c8-8107-d0021682702d",
+            "jumbotronUrl": "https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F251.jpg?alt=media&token=375db8cd-c73c-45f6-b0ef-117444b6a879",
+            "verticalCardUrl":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F252.jpg?alt=media&token=db090798-3efa-4a6a-a5ca-e3f65d92c453",
+            "jumbotronVideoUrl":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/jumbotronVideoTwo.mp4?alt=media&token=f5b394fa-82bf-4422-92ae-ef26a62c3104"
+           
+        },
+        {
+        "id": 3,
+        "title": " Trucker Denim Jacket",
+        "price": 150.00,
+        "description": "Fit for anything and made to go the distance. The original jean jacket since the 1960s, have been loved and lived in by just about everyone. Featuring a full button placket with branded metal shanks, button cuffs, button-flap chest pockets, side hand pockets and back waistband tabs for adjustable fit.",
+        "brand": "Reserved",
+        "productType": "Denim Jacket",
+        "collection": "2020",
+        "sale":"Summer Sale",
+        "url":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F250.jpg?alt=media&token=54afcdc9-a738-42c8-8107-d0021682702d",
+        "jumbotronUrl": "https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F260-jumbotronOnly.jpg?alt=media&token=634d6f5d-59d7-42c3-b06c-e3e81b9c6002",
+        "verticalCardUrl":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F252.jpg?alt=media&token=db090798-3efa-4a6a-a5ca-e3f65d92c453",
+        "jumbotronVideoUrl":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/jumbotronVideoThree.mp4?alt=media&token=473a5b19-ec3a-4f96-97b4-3683a98835a8"
+       
+    },
+        {
+        "id": 4,
+        "title": "Swimming Suit",
+        "price": 39.99,
+        "description": "Introducing the Pursue Swimming Suit Technical Seamless racerback Sports Suit in red. Featuring a stretchy, supportive, and lightweight fit that won't let you down.",
+        "brand": "Uniqlo",
+        "productType": "Swimming Suit",
+        "collection": "2020",
+        "url":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F200.jpg?alt=media&token=e1d7d5f0-c737-43ea-9397-35bd9f2f4a27",
+        "jumbotronUrl":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F201.jpg?alt=media&token=71370940-65a2-4d1b-8806-8f6820d9b963",
+        "verticalCardUrl":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F202.jpg?alt=media&token=5a86eb0b-68eb-4f60-8dbd-4b61b8ef7a46",
+        "videoUrl":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/Instagram%20-%20IGTV-04.11.2018%20-%20longer.mp4?alt=media&token=af14ee0c-8712-49e7-9f8a-4c469b8ade4e"
+    },
+    {
+        "id": 5,
+        "title": "Green Suit Jacket",
+        "price": 39.99,
+        "description": "Suit Jacket in a regular fit with a choice of three lengths, two front flap hip pockets with printed lining, one chest pocket with pocket lining in same body print, button front fasten, a bee lapel pin, four- button cuffs, two inside pockets with button fasten, one mobile jet pocket and a double back vent.",
+        "brand": "Zara",
+        "productType": "Suit Jacket",
+        "collection": "2020",
+        "url":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F210.jpg?alt=media&token=d626bd55-ddab-4cd8-a752-04cef14a2d53",
+        "jumbotronUrl":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F211.jpg?alt=media&token=4d06fc33-4b06-4e5f-8f63-b05d3b231cea",
+        "verticalCardUrl":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F212.jpg?alt=media&token=599bb467-b45c-4aec-b858-cf00ff5192dc"
+    },
+    {
+    "id": 6,
+    "title": "Black Frames Sunglasses",
+    "price": 240.69,
+    "description": "Super anti-reflective. No glare from front and back.Anti-scratch: Special hardening of surface.High-end nano coatings (water and dirt repellent).Equipped with UV protection.",
+    "brand": "Guess",
+    "productType": "Sunglasses",
+    "collection": "2020",
+    "url":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F220.jpg?alt=media&token=50a87590-0f03-4e94-ba95-986c391a460a",
+    "jumbotronUrl":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F221.jpg?alt=media&token=081e44e7-dbbb-4dfa-8eb7-40f4f88d1b49",
+    "verticalCardUrl":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F223.jpg?alt=media&token=78a4c476-2b1e-477e-9c62-a56555187246"
+},
+    {
+        "id": 7,
+        "title": "Jacket - Spring Collection",
+        "price": 350.00,
+        "description": "100% Genuine Leather - Crafted in Superior Quality Nappa Leather - Luxurious and Supple.",
+        "brand": "Xlmoto",
+        "productType": "Leather Jacket",
+        "collection": "2019",
+        "url":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F230.jpg?alt=media&token=3df5e3a0-243f-410d-90ba-9804f4ff6166",
+        "jumbotronUrl": "https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F231.jpg?alt=media&token=3f635f83-d27c-4933-96de-e4710b2153dd",
+        "verticalCardUrl":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F232.jpg?alt=media&token=1fa4c122-bf09-46ef-b473-6583206fbeb0"
+       
+    },
+
+    {
+        "id": 8,
+        "title": "Women Coat",
+        "price": 129.00,
+        "description": "Women Coat, unique style jacket with zip front, side pockets and ribbed cuffs and hems. Great to layer up this season.",
+        "brand": "Xlmoto",
+        "productType": "Coat",
+        "collection": "2019",
+        "url":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F240.jpg?alt=media&token=51f03f39-49cb-4ac4-bd45-804085510ae0",
+        "jumbotronUrl": "https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F241.jpg?alt=media&token=2bc90fd3-1a4a-4923-bdeb-6bf6c46c90f4",
+        "verticalCardUrl":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F242.jpg?alt=media&token=ed281a5b-58f2-45ae-a284-94c3d2e8d757"
+       
+    },
+{
+    "id": 9,
+    "title": "Bell Helmet Bag",
+    "price": 80.00,
+    "description": "Universal portable helmet bag.Full width zip and carry handles.",
+    "brand": "Xlmoto",
+    "productType": "Helmet Bag",
+    "collection": "2019",
+    "url":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F280.jpg?alt=media&token=6fd1de87-2cb9-4114-92dd-9b0de59c57e4",
+    "jumbotronUrl": "https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F281.jpg?alt=media&token=63c4e9ae-6a50-4592-9e5b-6728fadd5457",
+    "verticalCardUrl":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F282.jpg?alt=media&token=5c2d35c5-a3c0-46c4-b9fa-513d00de7f82"
+   
+},
+{
+    "id": 10,
+    "title": "Bomber Jacket",
+    "price": 120.00,
+    "description": "Knitted bomber style jacket with zip front, side pockets and ribbed cuffs and hems. Great to layer up this season.",
+    "brand": "Xlmoto",
+    "productType": "Jacket",
+    "collection": "2019",
+    "url":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F290.jpg?alt=media&token=6e6ae804-04b9-44f5-a6a8-b3a22db06165",
+    "jumbotronUrl": "https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F291.jpg?alt=media&token=ae39eb3b-1bdd-49ae-a1ce-db3d1e788c33",
+    "verticalCardUrl":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F292.jpg?alt=media&token=56ceab64-2405-42a3-8ab7-28ea2a92fea1"
+   
+},
+
+{
+    "id": 11,
+    "title": "Women Bomber Jacket",
+    "price": 120.00,
+    "description": "Women Knitted bomber style jacket with zip front, side pockets and ribbed cuffs and hems. Great to layer up this season.",
+    "brand": "Xlmoto",
+    "productType": "Jacket",
+    "collection": "2019",
+    "url":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F300.jpg?alt=media&token=748d97b3-d6f8-4e9f-adbf-3ec7ed15d5fa",
+    "jumbotronUrl": "https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F301.jpg?alt=media&token=07638b64-2425-46ca-bc62-f80e492e4979",
+    "verticalCardUrl":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F302.jpg?alt=media&token=e8633b14-466c-477e-8cbb-495ffe1d49e2"
+   
+},
+
+{
+    "id": 12,
+    "title": "Women Red CUt Coat",
+    "price": 129.00,
+    "description": "Women Coat, unique style jacket with zip front, side pockets and ribbed cuffs and hems. Great to layer up this season.",
+    "brand": "Bellie",
+    "productType": "Coat",
+    "collection": "2019",
+    "url":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F310.jpg?alt=media&token=4369a426-7cbe-4769-a228-0b01d5770bc6",
+    "jumbotronUrl": "https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F311.jpg?alt=media&token=5f89ba35-1511-4aae-986e-d6df78e74e4b",
+    "verticalCardUrl":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F312.jpg?alt=media&token=bb9521b1-c565-4675-8277-94051a6846e5"
+   
+},
+
+    {
+        "id": 13,
+        "title": "Gym Suit",
+        "price": 89.99,
+        "description": "Introducing the Pursue Fitness Technical Seamless racerback Sports Suit in red. Featuring a stretchy, supportive, and lightweight fit that won't let you down.",
+        "brand": "Uniqlo",
+        "productType": "Fitness",
+        "collection": "2017",
+        "url":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F320.jpg?alt=media&token=dbf599ab-8a9f-4f22-bf92-7996b995efe4",
+        "jumbotronUrl":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F321.jpg?alt=media&token=bf419104-36d5-48ee-9bf3-3ce0ec5d0899",
+        "verticalCardUrl":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F322.jpg?alt=media&token=abed92d9-2657-42c3-bd83-ae4acbd14e63"
+    }
+
+    
+]
+}
