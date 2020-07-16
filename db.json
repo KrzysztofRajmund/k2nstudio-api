@@ -2,7 +2,7 @@
     "items": [
         {
             "id": 1,
-            "title": "Commercials projects...",
+            "title": "Commercial projects",
             "gif":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/gifOne.gif?alt=media&token=59b763bb-e403-491c-bf66-b6fb8f76eaf1",
             "url":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F270.jpg?alt=media&token=e34cd59d-f060-4fa7-a29b-589bd2186e58",
             "jumbotronUrl": "https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F271.jpg?alt=media&token=443f4900-fac4-4f47-b902-2aaf7a5c09ce",
@@ -12,7 +12,7 @@
 
         {
             "id": 2,
-            "title": "portraits,packshots...",
+            "title": "Portraits",
             "gif":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/gifTwo.gif?alt=media&token=b8e24c83-382d-4f66-a9e1-a2b15ae7d6eb",
             "url":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F250.jpg?alt=media&token=54afcdc9-a738-42c8-8107-d0021682702d",
             "jumbotronUrl": "https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F251.jpg?alt=media&token=375db8cd-c73c-45f6-b0ef-117444b6a879",
