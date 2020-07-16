@@ -47,6 +47,13 @@
 },
     {
         "id": 7,
+        "description":"triston",
+        "url":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/products%2Ftriston.jpg?alt=media&token=9d478831-07d0-4bc1-b5f3-f31083665e69",
+        "verticalCardUrl":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/products%2Ftriston.jpg?alt=media&token=9d478831-07d0-4bc1-b5f3-f31083665e69"
+       
+    },
+    {
+        "id": 7,
         "url":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F230.jpg?alt=media&token=3df5e3a0-243f-410d-90ba-9804f4ff6166",
         "jumbotronUrl": "https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F231.jpg?alt=media&token=3f635f83-d27c-4933-96de-e4710b2153dd",
         "verticalCardUrl":"https://firebasestorage.googleapis.com/v0/b/k2nstudio.appspot.com/o/mainProducts%2F232.jpg?alt=media&token=1fa4c122-bf09-46ef-b473-6583206fbeb0"
